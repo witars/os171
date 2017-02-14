@@ -20,3 +20,4 @@ drwxr-xr-x  2 wita.aristawidya StafCS 4096 Feb 14 14:49 week09
 drwxr-xr-x  2 wita.aristawidya StafCS 4096 Feb 14 14:49 week10
 drwxr-xr-x  2 wita.aristawidya StafCS 4096 Feb 14 14:50 xtra
 /home/fasilkom/mahasiswa/w/wita.aristawidya/os171/week01
+Today is 14 Feb 2017 at 15:55:22
