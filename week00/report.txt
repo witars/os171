@@ -1,0 +1,2 @@
+Last week (week00), we were asked to have Google account and GitHub account.
+Then, after we were registered, we had to try log in to badak.cs.ui.ac.id
