@@ -1,0 +1,2 @@
+from week01, we are learning how to create folder and file, remove them,
+push file into github, and pull files from github through badak server
