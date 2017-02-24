@@ -1,0 +1,10 @@
+[Week:w02]-[Date:170224]-[StartTime:18]-[CategoryCode:PS]-[Lab week02. About: Privacy Matters, Encrypyion and Digital Signature using GnuPG]
+[Week:w02]-[Date:170224]-[StartTime:18]-[CategoryCode:PS]-[Lab week02. About: Privacy Matters, Encrypyion and Digital Signature using GnuPG]
+[Week:w02]-[Date:170224]-[StartTime:19]-[CategoryCode:PS]-[Lab week02. About: Intro to C]
+[Week:w02]-[Date:170224]-[StartTime:19]-[CategoryCode:PS]-[Lab week02. About: Intro to C]
+[Week:w02]-[Date:170224]-[StartTime:21]-[CategoryCode:PS]-[Lab week02. About: Privacy Matters, Encrypyion and Digital Signature using GnuPG]
+[Week:w02]-[Date:170224]-[StartTime:21]-[CategoryCode:PS]-[Lab week02. About: Privacy Matters, Encrypyion and Digital Signature using GnuPG]
+[Week:w02]-[Date:170224]-[StartTime:23]-[CategoryCode:PS]-[Lab week02. About: Privacy Matters, Encrypyion and Digital Signature using GnuPG]
+[Week:w02]-[Date:170224]-[StartTime:23]-[CategoryCode:PS]-[Lab week02. About: Privacy Matters, Encrypyion and Digital Signature using GnuPG]
+
+
