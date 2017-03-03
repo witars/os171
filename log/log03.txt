@@ -1,0 +1,13 @@
+[Week:w##]-[Date:YYMMDD]-[StartTime:HH]-[CategoryCode:LR/PS/DS]-[Detail]
+w00-170207-14-LR-About: Introduction to Operating System, From: Lecturer
+
+w03-170228-10-LR-About: BIOS, Boot and UpStart, From: Lecturer
+w03-170228-10-LR-About: Legacy Bios, From: Lecturer
+w03-170228-11-LR-About: UEFI, From: Lecturer
+w03-170228-11-LR-About: Boot Phases, From: Lecturer
+w03-170302-10-LR-About: Review tuesday's materials, From: Lecturer
+w03-170302-10-LR-About: Init (SYSV Legacy), From: Lecturer
+w03-170302-10-LR-About: Scripting about Sudo, From: Lecturer
+w03-170302-10-LR-About: Intro to Variable, Address, and I/O, From: Lecturer
+w03-170302-22-LR-Self Review, About: BIOS, Boot and UpStart
+w03-170302-22-PS-Lab Session, About: Boot and Startup Script
