@@ -11,3 +11,5 @@ w03-170302-10-LR-About: Scripting about Sudo, From: Lecturer
 w03-170302-10-LR-About: Intro to Variable, Address, and I/O, From: Lecturer
 w03-170302-22-LR-Self Review, About: BIOS, Boot and UpStart
 w03-170302-22-PS-Lab Session, About: Boot and Startup Script
+w03-170302-23-PS-Lab Session, About: Boot and Startup Script
+w03-170303-00-PS-Lab Session, About: Boot and Startup Script
