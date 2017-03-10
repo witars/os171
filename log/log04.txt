@@ -7,4 +7,10 @@ w04-170309-10-LR-About:Address Mapping (continue speed demo) ,From: Lecturer
 w04-170309-10-LR-About:I/O Programming ,From: Lecturer
 w04-170309-11-LR-About:I/O Programming (Open & Close) ,From: Lecturer
 w04-170309-11-LR-About:I/O Programming (speed demo) ,From: Lecturer
-w04-170310-13-PS-Lab Session, About:
+w04-170310-13-PS-Lab Session, About: Global Variable Address vs Local Variable Address
+w04-170310-22-PS-Lab Session, About: Global Variable Address vs Local Variable Address
+w04-170310-22-PS-Lab Session, About: Pointer
+w04-170310-23-PS-Lab Session, About: Pointer
+w04-170310-23-PS-Lab Session, About: I/O Process
+w04-170311-00-PS-Lab Session, About: I/O Process
+w04-170311-00-PS-Lab Session, About: I/O Process
